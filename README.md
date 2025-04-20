@@ -110,7 +110,4 @@ For questions about the dataset or research paper, please contact:
   <a href="https://scam.ai">
     <img src="https://img.shields.io/badge/Scam.ai-Website-blue" alt="Scam.ai Website">
   </a>
-  <a href="https://twitter.com/scamai">
-    <img src="https://img.shields.io/badge/Twitter-@scamai-blue?style=flat&logo=twitter" alt="Twitter">
-  </a>
 </div>
