@@ -98,12 +98,6 @@ If you use this dataset in your research, please cite our paper:
 
 This dataset is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Contact
-
-For questions about the dataset or research paper, please contact:
-- Simiao Ren: simiao.ren@duke.edu
-- General inquiries: research@scam.ai
-
 ---
 
 <div align="center">
