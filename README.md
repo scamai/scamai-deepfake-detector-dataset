@@ -83,7 +83,7 @@ If you use this dataset in your research, please cite our paper:
 <div align="center">
   
 [![Dataset Usage](https://img.shields.io/badge/dynamic/json?color=blue&label=Dataset%20Usage&query=$.count&url=https://api.github.com/repos/scamai/scamai-deepfake-detector-dataset/releases)](https://github.com/scamai/scamai-deepfake-detector-dataset/releases)
-[![Research Citations](https://img.shields.io/badge/dynamic/json?color=orange&label=Citations&query=$.citation_count&url=https://api.semanticscholar.org/graph/v1/paper/arXiv:2502.10920)](https://www.semanticscholar.org/paper/Do-Deepfake-Detectors-Work-in-Reality-Ren-Xu/ae3c7f1fb9df4b2f8e47a9c2bddce1a1a9f1f9a9)
+[![Research Citations](https://img.shields.io/badge/dynamic/json?color=orange&label=Citations&query=$.citation_count&url=https://api.semanticscholar.org/graph/v1/paper/arXiv:2502.10920)](https://www.semanticscholar.org/paper/Do-Deepfake-Detectors-Work-in-Reality-Ren-Xu/62b913a89726b7d3fe6491c0230442192cf7e8d1#citing-papers)
 
 </div>
 
