@@ -6,11 +6,11 @@ This repository contains the dataset used in the research paper 'Do Deepfake Det
 <div align="center">
 
 ![Scam.ai Logo](https://img.shields.io/badge/Scam.ai-Research-blue)
-[![Dataset Downloads](https://img.shields.io/github/downloads/scam-ai/scamai-deepfake-detector-dataset/total?color=green&label=Dataset%20Downloads)](https://github.com/scam-ai/scamai-deepfake-detector-dataset/releases)
+[![Dataset Downloads](https://img.shields.io/github/downloads/scamai/scamai-deepfake-detector-dataset/total?color=green&label=Dataset%20Downloads)](https://github.com/scamai/scamai-deepfake-detector-dataset/releases)
 [![Paper](https://img.shields.io/badge/Paper-arXiv:2502.10920-red)](https://arxiv.org/abs/2502.10920)
-[![GitHub stars](https://img.shields.io/github/stars/scam-ai/scamai-deepfake-detector-dataset?style=social)](https://github.com/scam-ai/scamai-deepfake-detector-dataset/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/scam-ai/scamai-deepfake-detector-dataset?style=social)](https://github.com/scam-ai/scamai-deepfake-detector-dataset/network/members)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=scam-ai.scamai-deepfake-detector-dataset)
+[![GitHub stars](https://img.shields.io/github/stars/scamai/scamai-deepfake-detector-dataset?style=social)](https://github.com/scamai/scamai-deepfake-detector-dataset/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/scamai/scamai-deepfake-detector-dataset?style=social)](https://github.com/scamai/scamai-deepfake-detector-dataset/network/members)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=scamai.scamai-deepfake-detector-dataset)
 
 </div>
 
@@ -82,7 +82,7 @@ If you use this dataset in your research, please cite our paper:
 
 <div align="center">
   
-[![Dataset Usage](https://img.shields.io/badge/dynamic/json?color=blue&label=Dataset%20Usage&query=$.count&url=https://api.github.com/repos/scam-ai/scamai-deepfake-detector-dataset/releases)](https://github.com/scam-ai/scamai-deepfake-detector-dataset/releases)
+[![Dataset Usage](https://img.shields.io/badge/dynamic/json?color=blue&label=Dataset%20Usage&query=$.count&url=https://api.github.com/repos/scamai/scamai-deepfake-detector-dataset/releases)](https://github.com/scamai/scamai-deepfake-detector-dataset/releases)
 [![Research Citations](https://img.shields.io/badge/dynamic/json?color=orange&label=Citations&query=$.citation_count&url=https://api.semanticscholar.org/graph/v1/paper/arXiv:2502.10920)](https://www.semanticscholar.org/paper/Do-Deepfake-Detectors-Work-in-Reality-Ren-Xu/ae3c7f1fb9df4b2f8e47a9c2bddce1a1a9f1f9a9)
 
 </div>
